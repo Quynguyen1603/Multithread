@@ -20,9 +20,9 @@ int BinToDecConverter(string bin)
     }
     return dec;
 }
-void ABC()
+void DEF()
 {
-    
+    int abc;
 }
 int main ()
 {
