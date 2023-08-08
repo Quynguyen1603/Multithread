@@ -1,7 +1,10 @@
 #include <iostream>
 #include <string>
 #include <cmath>
+#include <chrono>
 using namespace std;
+
+//////////some code
 
 int BinToDecConverter(string bin)
 {
@@ -16,6 +19,10 @@ int BinToDecConverter(string bin)
         // cout<< dec<<endl;
     }
     return dec;
+}
+void ABC()
+{
+    
 }
 int main ()
 {
