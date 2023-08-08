@@ -5,7 +5,7 @@
 using namespace std;
 
 //////////some code
-
+//code 2
 int BinToDecConverter(string bin)
 {
     int len = bin.length();
